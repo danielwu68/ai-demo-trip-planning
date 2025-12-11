@@ -3,3 +3,5 @@ LLM: Gemini
 - Created GEMINI.md based on user instructions.
 - Initialized Git repository.
 - Started generating road trip plan based on GEMINI.md.
+- Created POI.md with initial points of interest.
+
