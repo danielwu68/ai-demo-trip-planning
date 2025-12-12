@@ -1,13 +1,13 @@
 # Trip Overview
 
 ## Day 1: Tuesday, December 16, 2025
-*   **Wake-up time:** N/A (Trip starts in the afternoon)
+*   **Wake-up time:** 8:00 AM (afternoon departure planned)
 *   **Overview:** Drive from Los Angeles, CA to Kingman, AZ.
 *   **Details:** [See Day 1 Details](./Trip-Day-01-option-01.md)
 *   **Hotel:** Hampton Inn & Suites Kingman
     *   **Address:** 1791 Sycamore Ave, Kingman, AZ 86409
     *   **Phone:** +1 928-692-0200
-    *   **POI Link:** [Hampton Inn & Suites Kingman](./POI.md#hampton-inn-suites-kingman)
+    *   **POI Link:** [Hampton Inn & Suites Kingman](./POI.md#hampton-inn--suites-kingman)
 
 ## Day 2: Wednesday, December 17, 2025
 *   **Wake-up time:** 8:00 AM

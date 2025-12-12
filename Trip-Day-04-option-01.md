@@ -20,18 +20,18 @@ The final day includes some morning sightseeing in Phoenix before the drive back
     *   **Address:** 1100 N Central Ave, Phoenix, AZ 85004
     *   **Phone:** +1 602-875-8080
     *   **Google Maps Link:** [https://www.google.com/maps/search/?api=1&query=MATCH+Market+%26+Bar+Phoenix](https://www.google.com/maps/search/?api=1&query=MATCH+Market+%26+Bar+Phoenix)
-    *   **POI Link:** [MATCH Market & Bar](./POI.md#match-market-bar)
+    *   **POI Link:** [MATCH Market & Bar](./POI.md#match-market--bar)
 
 ## 2:00 PM - 9:00 PM (7 hours)
 *   **Activity:** Drive from Phoenix to Los Angeles
 *   **Details:**
-    *   **Origin:** Phoenix, AZ
-    *   **Destination:** Los Angeles, CA
+    *   **Departure:** MATCH Market & Bar (FOUND:RE Phoenix), 1100 N Central Ave, Phoenix, AZ 85004 — +1 602-875-8080 — [Google Maps](https://maps.google.com/?q=MATCH+Market+%26+Bar+Phoenix) — [POI](./POI.md#match-market--bar)
+    *   **Arrival:** Los Angeles Union Station, 800 N Alameda St, Los Angeles, CA 90012 — +1 213-683-6875 — [Google Maps](https://maps.google.com/?q=Los+Angeles+Union+Station) — [POI](./POI.md#los-angeles-union-station)
     *   **Google Maps Link:** [https://www.google.com/maps/dir/Phoenix,+AZ/Los+Angeles,+CA/](https://www.google.com/maps/dir/Phoenix,+AZ/Los+Angeles,+CA/)
-    *   **Notes:** The drive is approximately 375 miles. The estimated arrival time is between 9:00 PM and 10:00 PM, but can be later depending on traffic conditions.
+    *   **Notes:** Allocate buffer for evening I-10 congestion through the Inland Empire; plan two brief rest stops and a fuel stop if needed to target a 9:00-10:00 PM arrival.
 
 ### Rest Stops
-*   **Name:** Cactus City Rest Area
-    *   **POI Link:** [Cactus City Rest Area](./POI.md#cactus-city-rest-area)
+*   **Name:** Quartzsite Rest Area — I-10, Quartzsite, AZ 85346 — Phone: N/A — [Google Maps](https://maps.google.com/?q=Quartzsite+Rest+Area) — [POI](./POI.md#quartzsite-rest-area)
+*   **Name:** Cactus City Rest Area — I-10 Eastbound, Indio, CA 92201 — Phone: N/A — [Google Maps](https://maps.google.com/?q=Cactus+City+Rest+Area) — [POI](./POI.md#cactus-city-rest-area)
 
 [GEMINI.md](./GEMINI.md) | [POI.md](./POI.md) | [Trip Overview.md](./Trip%20Overview.md)

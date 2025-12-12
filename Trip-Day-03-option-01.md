@@ -7,10 +7,13 @@ This day is dedicated to exploring the scenic beauty of Sedona. We will drive fr
 ## 9:00 AM - 11:00 AM (2 hours)
 *   **Activity:** Drive from Phoenix to Sedona
 *   **Details:**
-    *   **Origin:** Phoenix, AZ
-    *   **Destination:** Sedona, AZ
+    *   **Departure:** Found RE Phoenix, 1100 N Central Ave, Phoenix, AZ 85004 — +1 602-875-8000 — [Google Maps](https://maps.google.com/?q=Found+RE+Phoenix) — [POI](./POI.md#found-re-phoenix)
+    *   **Arrival:** Red Rock State Park, 4050 Red Rock Loop Rd, Sedona, AZ 86336 — +1 928-282-6907 — [Google Maps](https://maps.google.com/?q=Red+Rock+State+Park) — [POI](./POI.md#red-rock-state-park)
     *   **Google Maps Link:** [https://www.google.com/maps/dir/Phoenix,+AZ/Sedona,+AZ/](https://www.google.com/maps/dir/Phoenix,+AZ/Sedona,+AZ/)
-    *   **Notes:** The drive is approximately 116 miles.
+    *   **Notes:** Traffic is lighter mid-morning on I-17; quick overlook stop available if needed.
+
+### Rest Stops
+*   **Name:** Sunset Point Rest Area — I-17, Black Canyon City, AZ 85324 — Phone: N/A — [Google Maps](https://maps.google.com/?q=Sunset+Point+Rest+Area) — [POI](./POI.md#sunset-point-rest-area)
 
 ## 11:00 AM - 1:00 PM (2 hours)
 *   **Activity:** Explore Red Rock State Park
@@ -42,9 +45,13 @@ This day is dedicated to exploring the scenic beauty of Sedona. We will drive fr
 ## 5:00 PM - 7:00 PM (2 hours)
 *   **Activity:** Drive from Sedona to Phoenix
 *   **Details:**
-    *   **Origin:** Sedona, AZ
-    *   **Destination:** Phoenix, AZ
+    *   **Departure:** Slide Rock State Park, 6871 N Highway 89A, Sedona, AZ 86336 — +1 928-282-3034 — [Google Maps](https://maps.google.com/?q=Slide+Rock+State+Park) — [POI](./POI.md#slide-rock-state-park)
+    *   **Arrival:** Found RE Phoenix, 1100 N Central Ave, Phoenix, AZ 85004 — +1 602-875-8000 — [Google Maps](https://maps.google.com/?q=Found+RE+Phoenix) — [POI](./POI.md#found-re-phoenix)
     *   **Google Maps Link:** [https://www.google.com/maps/dir/Sedona,+AZ/Phoenix,+AZ/](https://www.google.com/maps/dir/Sedona,+AZ/Phoenix,+AZ/)
+    *   **Notes:** Return drive usually flows after 5 PM; use Sunset Point if a break is needed.
+
+### Rest Stops
+*   **Name:** Sunset Point Rest Area — I-17, Black Canyon City, AZ 85324 — Phone: N/A — [Google Maps](https://maps.google.com/?q=Sunset+Point+Rest+Area) — [POI](./POI.md#sunset-point-rest-area)
 
 ## 7:00 PM onwards
 *   **Activity:** Dinner
@@ -53,6 +60,6 @@ This day is dedicated to exploring the scenic beauty of Sedona. We will drive fr
     *   **Address:** 1100 N Central Ave, Phoenix, AZ 85004
     *   **Phone:** +1 602-875-8080
     *   **Google Maps Link:** [https://www.google.com/maps/search/?api=1&query=MATCH+Market+%26+Bar+Phoenix](https://www.google.com/maps/search/?api=1&query=MATCH+Market+%26+Bar+Phoenix)
-    *   **POI Link:** [MATCH Market & Bar](./POI.md#match-market-bar)
+    *   **POI Link:** [MATCH Market & Bar](./POI.md#match-market--bar)
 
 [GEMINI.md](./GEMINI.md) | [POI.md](./POI.md) | [Trip Overview.md](./Trip%20Overview.md)
