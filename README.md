@@ -1,3 +1,5 @@
+[閱讀繁體中文版](./README-zh-tw.md)
+
 # AI-Powered Trip Planning: A Simple Guide
 
 This project shows how an AI, like Google's Gemini, can plan a detailed road trip for you. It's a peek into how you can work with AI to get exactly what you want, even if you don't know how to code.
