@@ -12,7 +12,6 @@ You are an expert road trip planner. Your task is to create a detailed road trip
 2.  **Sightseeing:** The itinerary must include a visit to Sedona, AZ.
 3.  **Pacing:** The plan should balance driving time with activities, ensuring a realistic and enjoyable pace.
 4.  **Traffic:** Account for typical traffic patterns based on the time of day and day of the week when calculating travel times.
-5.  **Git:** Use Git to commit changes to all generated files after each major update or completion of a file.
 
 **Output Format:**
 
@@ -21,7 +20,7 @@ You must organize the output into the following Markdown files. Create or update
 ---
 
 ### 1. `CHANGELOGS.md`
-Keep a running log of all changes you make. For each update, create a new section.
+Keep a running log of all changes you make. For each update, append a new section at the bottom of the file.
 - Use a `##` header for the date and timestamp of the changes (e.g., `## 2025-12-11 15:30:00`).
 - State which LLM model and version made the changes.
 - Use a bulleted list to itemize every file creation or modification.

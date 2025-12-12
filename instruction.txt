@@ -1,0 +1,32 @@
+Create or update the GEMINI.md file with the LLM prompt for Google Gemini to help me plan a road trip from Los Angeles to Phoneix, AZ.  The purpose of the trip is to check out some apartment buildings and do some sightseeing nearby.  The road trip will start on Tuesday December 16, 2025 afternoon at 3:00PM and returning home on Friday the 19th.  It is ok to arrive home a bit later in the evening around 10 or 11PM.
+
+- Make sure to reserve 4 hours on the 17th to visit apartments.
+- Include a visit to Sedona
+- Balance the driving time and activities
+
+
+To better organize the trip planning, output to the following Markdown files:
+
+- CHANGELOGS.md - Keep track of changed made by LLM.
+  - Use a section header to indicate the date / timestamp
+  - indicitate LLM which made the changes
+  - itemize changes below as bullet points
+- POI.md - which keep track of points of interest, POI.  The POIs should be grouped by State, City and the type of POI, e.g. rest stop, restaurant,  park, or hotel.   Each POI should
+  - include address, phone number(s), and a link to Google Map
+  - include a brief description about the POI, what are the features and what to see and do
+  - If the POI is a restaurant, add also cuisine, price range, and ratings
+- Trip Overview.md - Maintain the trip planning at the daily level, including
+  - the wake up time
+  - the activity overview of the day
+  - cross link to the daily trip detail file
+  - hotel information for the night, with the address, phone number and a link to the entry in the POM.md
+- Daily Trip Details
+  - use the filename pattern Trip-Day-NN-option-YY.md where NN is the day number of the trip and YY is the number of different options
+  - add header and footer with links to GEMINI.md, POI.md, and Trip Overview.md
+  - Brief overview of the day
+  - Detail and itemized itinerary with depart time, arrival time, duration at the POI, and what to do at the POI
+    - address, phone, and link to Google Map for that entry
+    - link to the entry in the POI.md file
+  - When expecting driving for extended period of time, add a list of rest stops available alone the way
+
+Instruct the LLM to consider traffic pattern based on the time of the day and day of the week.  Allocate realistic traveling time between POIs.
